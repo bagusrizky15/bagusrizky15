@@ -21,7 +21,6 @@
 <a href="https://linkedin.com/in/mohamadbagusrizkybba81a210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamadbagusrizkybba81a210" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bagusrizky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bagusrizky" height="30" width="40" /></a>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bagusrizky15&show_icons=true&locale=en" alt="bagusrizky15" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bagusrizky15&" alt="bagusrizky15" /></p>
+<br>
+  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bagusrizky15&" alt="bagusrizky15" /></p>
