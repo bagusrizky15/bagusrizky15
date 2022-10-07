@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Gizipedia Indonesia](gizipedia.com)
 
-- 🌱 I’m currently learning **Java, Flutter** 
+- 🌱 I’m currently learning **Kotlin** 
 
 - 📝 I regularly write articles on [rivvana.com](rivvana.com)
 
-- 💬 Ask me about **Java, Flutter**
+- 💬 Ask me about **Kotlin**
 
 - 📫 How to reach me **mbagusrizky15@gmail.com**
 
