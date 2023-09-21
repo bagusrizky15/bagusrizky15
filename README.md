@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Swift, Kotlin** 
 
-- 💬 Ask me about **Kotlin**
+- 💬 Ask me about **Swift, Kotlin**
 
 - 📫 How to reach me **mbagusrizky15@gmail.com**
 
-- ⚡ Fun fact **I think I'm handsome**
+- ⚡ Fun fact **I like coffee**<a href="https://trakteer.id/bagusrizky" target="blank"> Buy me a coffee</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
