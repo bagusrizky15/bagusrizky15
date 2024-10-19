@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on PT Bank Central Asia Tbk
 
-- 🌱 I’m currently learning **Swift, Kotlin** 
+- 🌱 I’m currently learning **Swift, Kotlin, Flutter** 
 
-- 💬 Ask me about **Swift, Kotlin**
+- 💬 Ask me about **Swift, Kotlin, Flutter**
 
 - 📫 How to reach me **mbagusrizky15@gmail.com**
 
