@@ -1,18 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bagus</h1>
-<h3 align="center">A passionate Mobile developer from Indonesia</h3>
+<h3 align="center">An iOS Developer@BCA from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagusrizky15&label=Profile%20views&color=0e75b6&style=flat" alt="bagusrizky15"/> 
 <img src="https://img.shields.io/github/followers/bagusrizky15?style=social"</p>
-
-- 🔭 I’m currently working on PT Bank Central Asia Tbk
-
-- 🌱 I’m currently learning **Swift, Kotlin, Flutter** 
-
-- 💬 Ask me about **Swift, Kotlin, Flutter**
-
-- 📫 How to reach me **mbagusrizky15@gmail.com**
-
-- ⚡ Fun fact **I like coffee**<a href="https://trakteer.id/bagusrizky" target="blank"> Buy me a coffee</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
