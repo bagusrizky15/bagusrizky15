@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bagus</h1>
-<h3 align="center">An iOS Developer@BCA from Indonesia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagusrizky15&label=Profile%20views&color=0e75b6&style=flat" alt="bagusrizky15"/> 
 <img src="https://img.shields.io/github/followers/bagusrizky15?style=social"</p>
 
